@@ -1,0 +1,56 @@
+body{
+	margin:auto;
+	width:40%;
+	border:1px;
+	border-style:solid;
+	border-color:#d1d4cf;
+	margin-top:50px;
+	border-radius: 7px 7px 0px 0px;
+}
+.header{
+	margin:auto;
+	border:1px solid #d1d4cf;
+	background-color:#83d656;
+	padding:15px;
+	border-radius:7px 7px 0px 0px;
+}
+
+
+h1{
+	margin:0px;
+	padding:3px;
+	padding-bottom:0px;
+}
+.header p{
+	margin:0px;
+	padding:5px;
+	padding-top:0px;
+}
+.name p, .email p, .message p,.subject p, .btn {
+	margin:0px;
+}
+.name, .email, .message, .subject, .btn{
+	padding:10px;
+}
+.name input, .email input, .message input,.subject input,  textarea {
+	width:95%;
+	height:22px;
+	padding:5px;
+	border-radius:3px;
+	
+}
+textarea{
+	height:130px;
+	border-radius:3px;
+	border-style:solid;
+	border-color:black;
+	overflow:auto;
+	max-width:95%;
+}
+button{
+	width:98%;
+	height:40px;
+}
+.panel{
+	padding:20px;
+}
